@@ -24,11 +24,11 @@
 
         <!-- Keeper -->
         <point_place id="keeper" name="keeper" position="17.2 7.6" front_vec="1 1" />
-        <point_place id="keeper_sim" name="keeper_sim" position="-1.12 0.04" front_vec="1 1" />
+        <point_place id="keeper_sim" name="keeper_sim" position="4.6 0" front_vec="1 1" />
 
         <!-- Biurko przy wejściu -->
         <point_place id="speaker" name="speaker" position="18.5 6" front_vec="1 1" />
-        <point_place id="speaker_sim" name="speaker_sim" position="2.84 -0.62" front_vec="1 1" />
+        <point_place id="speaker_sim" name="speaker_sim" position="0.9 0.7" front_vec="1 1" />
         <!-- Biurko róg -->
         <!-- <point_place id="speaker" name="speaker" position="8.8 8" front_vec="1 1" /> -->
 
